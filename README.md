@@ -1,0 +1,1 @@
+# cpp_othello6x6
